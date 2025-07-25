@@ -13,9 +13,9 @@ With a focus on clean, maintainable code and attention to design accuracy, I hel
 ✅ **Design-to-code precision:** I turn Figma files into fully responsive builds  
 
 Ping me if you’ve got a cool project, startup idea, or just wanna share your bliliant idea!   
-✉️ [Let's Talk](https://upwork.com/freelancers/dianmulyanatanjung)
+✉️ [Let's Talk](https://upwork.com/freelancers/dianmulyanatanjung)   
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diantanjung&layout=compact&theme=radical)
 <!--
 **diantanjung/diantanjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
