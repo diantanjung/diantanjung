@@ -8,8 +8,8 @@ Here’s what I bring to every project:
 
 ✅ Framework mastery: React.js, Next.js, Node.js, Express, NestJS, TypeScript  
 ✅ Full-stack capable: Can support frontend-to-backend integration  
-✅ Component-based architecture: Built for scalability and reuse  
-✅ Strong communication: Clear timelines and regular updates  
+✅ Component-based architecture: Built for scalability and reuse   
+✅ Strong communication: Clear timelines and regular updates   
 ✅ Design-to-code precision: I turn Figma files into fully responsive builds  
 
 Ping me if you’ve got a cool project, startup idea, or just wanna share your bliliant idea!
