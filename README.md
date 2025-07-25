@@ -1,6 +1,6 @@
 
 ## Hi, I’m Dian Tanjung 👋   
-### Your expert frontend partner for React & Next.js builds. 
+### Your expert Frontend Dev partner for React & Next.js builds. 
 
 With a focus on clean, maintainable code and attention to design accuracy, I help founders and teams ship fast, responsive, and accessible interfaces from landing pages to full web apps. 
 
