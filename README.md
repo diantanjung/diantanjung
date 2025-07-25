@@ -12,7 +12,8 @@ Here’s what I bring to every project:
 ✅ Strong communication: Clear timelines and regular updates   
 ✅ Design-to-code precision: I turn Figma files into fully responsive builds  
 
-Ping me if you’ve got a cool project, startup idea, or just wanna share your bliliant idea!
+Ping me if you’ve got a cool project, startup idea, or just wanna share your bliliant idea!   
+[Let's Talk](https://upwork.com/freelancers/dianmulyanatanjung)
 
 
 <!--
