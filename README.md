@@ -13,7 +13,7 @@ With a focus on clean, maintainable code and attention to design accuracy, I hel
 ✅ **Design-to-code precision:** I turn Figma files into fully responsive builds  
 
 Ping me if you’ve got a cool project, startup idea, or just wanna share your bliliant idea!   
-✉️ [Let's Talk](https://upwork.com/freelancers/dianmulyanatanjung)   
+🧑‍💻 [Let's collaborate on Upwork](https://upwork.com/freelancers/dianmulyanatanjung)   
 
 
 <!--
