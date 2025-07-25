@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+Hi, I’m **Dian Tanjung**, your expert frontend partner for React & Next.js builds.
+
+With a focus on clean, maintainable code and attention to design accuracy, I help founders and teams ship fast, responsive, and accessible interfaces from landing pages to full web apps. 
+
+Here’s what I bring to every project:
+
+✅ Framework mastery: React.js, Next.js, Node.js, Express, NestJS, TypeScript
+✅ Full-stack capable: Can support frontend-to-backend integration
+✅ Component-based architecture: Built for scalability and reuse 
+✅ Strong communication: Clear timelines and regular updates 
+✅ Design-to-code precision: I turn Figma files into fully responsive builds
+
+Ping me if you’ve got a cool project, startup idea, or just wanna share your bliliant idea!
+
+
 <!--
 **diantanjung/diantanjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
