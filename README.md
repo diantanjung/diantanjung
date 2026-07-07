@@ -1,18 +1,21 @@
 
 ## Hi, I’m Dian Tanjung 👋   
-### Your expert Frontend Dev partner for React & Next.js builds. 
+### Fullstack Developer focused on building reliable web, mobile, and backend applications.
 
-With a focus on clean, maintainable code and attention to design accuracy, I help founders and teams ship fast, responsive, and accessible interfaces from landing pages to full web apps. 
+With experience in React, Next.js, Flutter, Node.js, Go, PostgreSQL, Laravel, and production-ready application development, I help build scalable digital products from user interface to backend system.
+
+I enjoy turning business requirements into clean, maintainable, and user-friendly applications — including responsive web apps, mobile apps, REST APIs, database integration, authentication, and deployment-ready solutions.
 
 **Here’s what I bring to every project:**
 
-✅ **Framework mastery:** React.js, Next.js, Node.js, Express, NestJS, TypeScript  
-✅ **Full-stack capable:** Can support frontend-to-backend integration  
-✅ **Component-based architecture:** Built for scalability and reuse   
-✅ **Strong communication:** Clear timelines and regular updates   
-✅ **Design-to-code precision:** I turn Figma files into fully responsive builds  
+✅ Fullstack development: Web, mobile, backend, and database integration
+✅ Frontend expertise: React.js, Next.js, TypeScript, responsive UI, and component-based architecture
+✅ Mobile development: Cross-platform mobile app development with Flutter
+✅ Backend development: REST APIs, authentication, business logic, and service integration
+✅ Database experience: PostgreSQL, MySQL, schema design, and data management
+✅ Production-ready mindset: Clean code, maintainability, performance, and deployment preparation
 
-Ping me if you’ve got a cool project, startup idea, or just wanna share your bliliant idea!   
+I’m open to opportunities where I can contribute to building reliable, scalable, and user-friendly applications.   
 🧑‍💻 [Let's collaborate on Upwork](https://upwork.com/freelancers/dianmulyanatanjung)   
 
 
