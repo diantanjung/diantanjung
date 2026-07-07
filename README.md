@@ -8,15 +8,16 @@ I enjoy turning business requirements into clean, maintainable, and user-friendl
 
 **Here’s what I bring to every project:**
 
-✅ Fullstack development: Web, mobile, backend, and database integration
-✅ Frontend expertise: React.js, Next.js, TypeScript, responsive UI, and component-based architecture
-✅ Mobile development: Cross-platform mobile app development with Flutter
-✅ Backend development: REST APIs, authentication, business logic, and service integration
-✅ Database experience: PostgreSQL, MySQL, schema design, and data management
-✅ Production-ready mindset: Clean code, maintainability, performance, and deployment preparation
+✅ **Fullstack development:** Web, mobile, backend, and database integration  
+✅ **Frontend expertise:** React.js, Next.js, TypeScript, responsive UI, and component-based architecture  
+✅ **Mobile development:** Cross-platform mobile app development with Flutter  
+✅ **Backend development:** REST APIs, authentication, business logic, and service integration  
+✅ **Database experience:** PostgreSQL, MySQL, Mongo DB, schema design, and data management  
+✅ **Production-ready mindset:** Clean code, maintainability, performance, and deployment preparation  
 
 I’m open to opportunities where I can contribute to building reliable, scalable, and user-friendly applications.   
-🧑‍💻 [Let's collaborate on Upwork](https://upwork.com/freelancers/dianmulyanatanjung)   
+🧑‍💻 [Let's collaborate](https://www.linkedin.com/in/diantanjung/)
+<!-- 🧑‍💻 [Let's collaborate on Upwork](https://upwork.com/freelancers/dianmulyanatanjung)   -->
 
 
 <!--
